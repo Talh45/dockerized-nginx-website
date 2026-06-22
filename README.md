@@ -53,10 +53,18 @@ https://hub.docker.com/repositories/talha45
 
 ## Screenshots
 
-- Docker Image
-- Running Container
-- Website Deployment
-- Docker Hub Repository
+### Website Deployment
+
+![Website Deployment](screenshots/website-running.png)
+
+### Docker Images
+
+![Docker Images](screenshots/docker-1.png)
+
+### Docker Hub Repository
+
+![Docker Hub Repository](screenshots/dockerhub-repository.png)
+
 
 ## Author
 
