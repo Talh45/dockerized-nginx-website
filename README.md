@@ -55,15 +55,15 @@ https://hub.docker.com/repositories/talha45
 
 ### Website Deployment
 
-![Website Deployment](screenshots/website-running.png)
+![Website Deployment](website-running.png)
 
 ### Docker Images
 
-![Docker Images](screenshots/docker-1.png)
+![Docker Images](docker-1.png)
 
 ### Docker Hub Repository
 
-![Docker Hub Repository](screenshots/dockerhub-repository.png)
+![Docker Hub Repository](dockerhub-repository.png)
 
 
 ## Author
